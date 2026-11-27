@@ -1,0 +1,6 @@
+{
+  "name": "Scan2Score",
+  "description": "Smart assignment management system with teacher special-subject registration, student submissions, Auto Mark and Manual grading, assignment editing, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
